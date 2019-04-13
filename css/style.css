@@ -81,7 +81,7 @@ h3
 	color: #4B4B4B;
 	font-size: 20px;
 }
-a
+.edit
 {
 	float: left;
 	margin-left: 2%;
@@ -94,3 +94,11 @@ i
 	padding-top: 0;
 	font-size: 04rem;
 }
+
+.footer
+{
+	margin-top: 0;
+	padding-top: 0;
+	font-size: 1.4rem;
+}
+
